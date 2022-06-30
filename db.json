@@ -1,0 +1,7 @@
+{
+'loginData': [
+  {login: 'a', password: 1},
+  {login: 'b', password: 2},
+  {login: 'c', password: 3}
+]
+}
