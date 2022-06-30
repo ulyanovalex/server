@@ -15,5 +15,15 @@
   ],
   "post": {
     "text": "Hello guys"
-  }
+  },
+  "connectData": [
+    {
+      "time": "13", 
+      "id": "1"
+    },
+    {
+      "time": "14", 
+      "id": "2"
+    }
+  ]
 }
