@@ -1,29 +1,20 @@
 {
-  "userData" : [
-    {
-    "login": "a",
-     "password": "1"
-    },
-    {
-    "login": "b",
-     "password": "2"
-    },
-    {
-    "login": "c",
-     "password": "3"
-    }
-  ],
-  "post": {
-    "text": "Hello guys"
-  },
-  "connectData": [
-    {
-      "time": "13", 
-      "id": "1"
-    },
-    {
-      "time": "14", 
-      "id": "2"
-    }
-  ]
+"usersData": [
+                {
+                    "id": "1",
+                    "name": "Alexey Ulyanov",
+                    "age": "15",
+                    "status": "with girlfriend",
+                    "fu": "unfollow",
+                    "img": "https://www.visitdubai.com/-/media/gathercontent/article/t/top-rides-at-img-worlds-of-adventure/media/top-rides-at-img-worlds-of-adventure-predator-5.jpg?rev=f1bb54a15add49a09c912eac851f4ff7&cx=0.56&cy=0.4&cw=397&ch=397"
+                },
+               {
+                    "id": "2",
+                    "name": "Alexansr",
+                    "age": "15",
+                    "status": "alone",
+                    "fu": "follow",
+                    "img": "https://www.visitdubai.com/-/media/gathercontent/article/t/top-rides-at-img-worlds-of-adventure/media/top-rides-at-img-worlds-of-adventure-predator-5.jpg?rev=f1bb54a15add49a09c912eac851f4ff7&cx=0.56&cy=0.4&cw=397&ch=397"
+                }
+            ]
 }
